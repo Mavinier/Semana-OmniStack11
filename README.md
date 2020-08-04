@@ -5,11 +5,11 @@ A aplicação foi desenvolvida com o propósito de ajudar as pessoas a encontrar
 
 Para inicializar o projeto, basta realizar um clone ou baixar um .zip do repositório.
 
-Rodar o comando "npm install" para instalar todas as dependencias necessárias para o funcionamento da aplicação.
+Rodar o comando "npm install" nas pastas, backend, frontend e mobile para instalar todas as dependencias necessárias para o funcionamento da aplicação.
 
-Para inicializar o Backend e o Frontend, basta inserir o comando "npm start" no console do Visual Code, PowerShell ou o clássico cmd.
+Para inicializar o Backend e o Frontend, rodar o comando "npm start".
 
-Para inicializar a aplicação Mobile, rodar o comando "expo start" no console do Visual Code, PowerShell ou o clássico cmd, além disso,
+Para inicializar a aplicação Mobile, rodar o comando "expo start",
 se você quiser ter uma experiencia de um aplicativo mobile, você deve fazer o download do aplicativo Expo, no Google Play (para dispositivos Android)
 ou na AppStore (para dispositivos iOS). 
 Para mais informações sobre o Expo acesse: https://docs.expo.io/
